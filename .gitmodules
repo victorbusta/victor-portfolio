@@ -1,0 +1,6 @@
+[submodule "portfolio_front"]
+	path = portfolio_front
+	url = git@github.com:victorbusta/portfolio_front.git
+[submodule "portfolio_back"]
+	path = portfolio_back
+	url = git@github.com:victorbusta/portfolio_back.git
